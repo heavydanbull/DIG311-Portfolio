@@ -6,4 +6,4 @@ layout: default
 
 My name is Daniel Ramos-Medina
 
-[Return to Front Page](index.md)
+[Return to Front Page](frontpage.md)
