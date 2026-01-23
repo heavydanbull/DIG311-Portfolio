@@ -6,8 +6,8 @@ layout: default
 
 This is where I will be putting my assignments for DIG311
 
-<img src="Images/icantread.jpg" alt="cat" width="700" height="500">
+<img src="Images/icantread.jpg" alt="cat" width="800" height="400">
 
-[cat)](aboutme.md)
+[![Cat](Images/icantread.jpg)](aboutme.md)
 
 [About Me](aboutme.md)
