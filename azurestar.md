@@ -10,3 +10,4 @@ After losing her home during a violent rebellion, Neoma embarks on a journey of 
 
 <img src="Images/map.png" alt="map" width="800" height="550"> 
 
+![Map](Images/map.png)
