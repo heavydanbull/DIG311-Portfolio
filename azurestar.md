@@ -2,14 +2,23 @@
 layout: default
 ---
 
+### Webpage Links {#toppage}
+
 [Return to Front Page](index.md)
+
 [Link to "Introduction"](#welcome)
+
 [Link to "Continent"](#continent)
+
 [Link to "Magic"](#magic)
+
 [Link to "Characters"](#characters)
+
 [Link to "Prologue"](#prologue)
 
 # Welcome to the World of Azure Star! {#welcome}
+
+[Return to Top Page](#toppage)
 
 Azure Star is a story concept I have been developing for a few years. It is a medieval fantasy story with magic, action, and adventure. The medium would be a show, animation, book, novel, or comic series. 
 
@@ -23,6 +32,8 @@ A much more detailed explanation of the events can be found in the Prologue down
 
 ## The Continent of Auroramara {#continent}
 
+[Return to Top Page](#toppage)
+
 ![Map](Images/map.png)
 
 The continent of Auroramara is home to five nations that were unified by the Goddess on her crusade to defeat the tyrannical Sun God. By rallying five champions from each of the regions of the continent, the Goddess and her Five Heroes rebelled against the Sun the defeated the tyrant. The Five Heroes became leaders of their respective homes under the Goddess.
@@ -30,6 +41,8 @@ The continent of Auroramara is home to five nations that were unified by the God
 The Kingdom of Nova Soluna is inspired by feudal Western Europe. The Oreina Shogunate is inspired by feudal Japan. The Mosira Empire is inspired by Egypt. The Araceli Alliance is inspired by the Aztec and Inca Empires. The Aether Republic is home to the various elemental elves, most of which are isolationist within nature except for the High Elves who are the ruling royalty and have Greek inspirations.
 
 ## The Magic System {#magic}
+
+[Return to Top Page](#toppage)
 
 ![Magic](Images/magicSystem.png)
 
@@ -40,6 +53,8 @@ On the rare occurence someone awakens magic, they will likely only ever use simp
 The Goddess also bestowed divine blessings upon the Five Heroes and their bloodline. Notable ones are the "All-Seeing Eye" of Oreinan royal family and the "Enlightened Avatar" of the Nova Soluna nobility. These divine blessings hold great magical and political power in the continent.
 
 ## The Main Characters {#characters}
+
+[Return to Top Page](#toppage)
 
 ![Neoma](Images/neomaCollage.png)
 
@@ -71,6 +86,8 @@ Devont is the second child of the Oreinan royal family and a main antagonist for
 
 ## Prologue {#prologue}
 
+[Return to Top Page](#toppage)
+
 After the war of the Five Heroes and the soon-to-be Goddess against the tyrannical Sun God, the continent of Auroramara is unified by the High Elves’ Central Church and five nations that are ruled by the Five Heroes. Under the religion of the Azure Star, the Goddess is praised as the main deity and the other celestial bodies of the solar system praised as gods amongst the pantheon. Soon, the Goddess gave her five champions divine blessings that would be passed onto their bloodline, and give her own life to split the continent from other warmongers and create a barrier to protect Auroramara.
 
 Set 1,000 years after the war, in the Kingdom of Nova Soluna, the protagonist, Neoma (11yrs), is a noble daughter of the House of Falnadari, accompanying her friend Malina (11yrs), a noble daughter of the House of Mistyaval. They travel with their mothers to visit the nation’s magic academy to learn their magic affinities. They learn they share the magic affinity of Reality magic, specifically Neoma has conjuration and Malina can create barriers. Neoma practices by conjuring simple daggers and seems to have a better knack with magic, while Malina is weaker and requires more focus, but Neoma encourages her efforts. Neoma is very ambitious and passionate while Malina is very shy and reserved, but they value their friendship and can’t wait to revisit the magic academy when they are older.
@@ -85,4 +102,4 @@ Neoma and Malina’s mother have a conversation on what Neoma wants to do, and s
 
 Throughout the story, Neoma will meet her enemies, make new allies and connections, learn more about the Church, higher powers, and the truth behind the conflicts. She will change as a person, realizing her own flaws and faults, become involved in another greater conflict, and travel the outside world.
 
-[Return to Top Page](#welcome)
+[Return to Top Page](#toppage)
