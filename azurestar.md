@@ -3,21 +3,25 @@ layout: default
 ---
 
 [Return to Front Page](index.md)
+[Link to "Introduction"](#welcome)
+[Link to "Continent"](#continent)
+[Link to "Magic"](#magic)
+[Link to "Characters"](#characters)
+[Link to "Prologue"](#prologue)
 
-# Welcome to the World of Azure Star!
+# Welcome to the World of Azure Star! {#welcome}
 
 Azure Star is a story concept I have been developing for a few years. It is a medieval fantasy story with magic, action, and adventure. The medium would be a show, animation, book, novel, or comic series. 
 
 I'll give a brief synopsis: 
 After losing her home during a violent rebellion, Neoma embarks on a journey of revenge and political deception as she infiltrates the ranks of the magic academy to deliver vengeance. On her journey, Neoma, now known as Malina, will uncover hidden truths behind the rebellion, rediscover herself as she regains faith in allies, and venture the farthest reaches of the world.
 
-I'll give a simple explanation of the narrative:
+I'll give a more detailed synopsis:
 In the Kingdom of Nova Soluna, the noble houses rebelled against the royalty and the tyrannical king. Both sides lead to dire casualities and the death of the king. The Central Church, which oversees the entire continent, requested neighboring ally nations such as the Oreina Shogunate to put an end to the nobles' rebellion. Neoma and her best friend Malina are daughters of nobility, and in the battle against the Oreinan army, both children lose their parents and are reduced to political pawns. Due to their own schemes to get revenge against the Church and the Oreinans responsible for their parents' deaths, Neoma masquerades as Malina to infiltrate the Oreinan Magic Academy to deliver vengeance. On her journey, she must refine her magic to be strong enough to get revenge, maneuver political schemes and meetings between nations, and make trusted allies, and go through new experiences around the continent that shape her worldview and character.
 
 A much more detailed explanation of the events can be found in the Prologue down below.
-[Link to "Prologue" Below](#custom-id)
 
-## The Continent of Auroramara
+## The Continent of Auroramara {#continent}
 
 ![Map](Images/map.png)
 
@@ -25,7 +29,7 @@ The continent of Auroramara is home to five nations that were unified by the God
 
 The Kingdom of Nova Soluna is inspired by feudal Western Europe. The Oreina Shogunate is inspired by feudal Japan. The Mosira Empire is inspired by Egypt. The Araceli Alliance is inspired by the Aztec and Inca Empires. The Aether Republic is home to the various elemental elves, most of which are isolationist within nature except for the High Elves who are the ruling royalty and have Greek inspirations.
 
-## The Magic System
+## The Magic System {#magic}
 
 ![Magic](Images/magicSystem.png)
 
@@ -35,7 +39,7 @@ On the rare occurence someone awakens magic, they will likely only ever use simp
 
 The Goddess also bestowed divine blessings upon the Five Heroes and their bloodline. Notable ones are the "All-Seeing Eye" of Oreinan royal family and the "Enlightened Avatar" of the Nova Soluna nobility. These divine blessings hold great magical and political power in the continent.
 
-## The Main Characters
+## The Main Characters {#characters}
 
 ![Neoma](Images/neomaCollage.png)
 
@@ -65,7 +69,7 @@ Volvia is the third child of the Oreinan royal family and a main antagonist for 
 
 Devont is the second child of the Oreinan royal family and a main antagonist for he was responsible for the death of Neoma's father. He has a noble presence and strongly believes in truth and justice. His sense of self is very important to his character, which will be tested as reveals about his past shake him.
 
-## Prologue {#custom-id}
+## Prologue {#prologue}
 
 After the war of the Five Heroes and the soon-to-be Goddess against the tyrannical Sun God, the continent of Auroramara is unified by the High Elves’ Central Church and five nations that are ruled by the Five Heroes. Under the religion of the Azure Star, the Goddess is praised as the main deity and the other celestial bodies of the solar system praised as gods amongst the pantheon. Soon, the Goddess gave her five champions divine blessings that would be passed onto their bloodline, and give her own life to split the continent from other warmongers and create a barrier to protect Auroramara.
 
@@ -81,4 +85,4 @@ Neoma and Malina’s mother have a conversation on what Neoma wants to do, and s
 
 Throughout the story, Neoma will meet her enemies, make new allies and connections, learn more about the Church, higher powers, and the truth behind the conflicts. She will change as a person, realizing her own flaws and faults, become involved in another greater conflict, and travel the outside world.
 
-[Return to Front Page](index.md)
+[Return to Top Page](#welcome)
