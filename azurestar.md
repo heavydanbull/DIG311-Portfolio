@@ -104,6 +104,4 @@ Throughout the story, Neoma will meet her enemies, make new allies and connectio
 
 [Return to Top Page](#toppage)
 
-
-
-![WildenessPrologue](Videos/WildernessPrologue8mb.mp4)
+[![Watch the video](https://youtu.be/jSg6M8Js8Bs/0.jpg)](https://youtu.be/jSg6M8Js8Bs)
