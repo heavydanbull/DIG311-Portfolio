@@ -103,3 +103,7 @@ Neoma and Malina’s mother have a conversation on what Neoma wants to do, and s
 Throughout the story, Neoma will meet her enemies, make new allies and connections, learn more about the Church, higher powers, and the truth behind the conflicts. She will change as a person, realizing her own flaws and faults, become involved in another greater conflict, and travel the outside world.
 
 [Return to Top Page](#toppage)
+
+
+
+![WildenessPrologue](Videos/WildernessPrologue8mb.mp4)
