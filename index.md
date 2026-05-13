@@ -14,7 +14,7 @@ This is where I will be putting my projects throughout Albright College
 
 Projects:
 
-[DogKnight]()
+[DogKnight](https://youtu.be/g8YW75KtUxw)
 
 [Sword Fight](https://www.artstation.com/artwork/YBD0LP)
 
@@ -24,6 +24,6 @@ Projects:
 
 [Corporal Rot](https://youtu.be/xDn7iS0fLq4?si=yJmn0bl7NSy0z8VH)
 
-[Classifying Lizards with KNN]()
+[Classifying Lizards with KNN](https://youtu.be/YDJOF1xf_JQ)
 
 [Azure Star](azurestar.md)
