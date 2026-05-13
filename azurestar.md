@@ -106,4 +106,4 @@ Throughout the story, Neoma will meet her enemies, make new allies and connectio
 
 The following video is an example as an opening to the narrative of Neoma's story during the time she has to fend for herself in the wilderness after she had to run away from her mother. Hungry and searching for means to survive, Neoma comes across a village overrun by bandits with the villagers having been captured due to the chaos of the rebellion.
 
-[![Wilderness Prologue Animatic]](https://youtu.be/jSg6M8Js8Bs)
+[Wilderness Prologue Animatic](https://youtu.be/jSg6M8Js8Bs)

@@ -12,13 +12,15 @@ This is where I will be putting my projects throughout Albright College
 
 [About Me](aboutme.md)
 
+Projects:
+
 [DogKnight]()
 
 [Sword Fight](https://www.artstation.com/artwork/YBD0LP)
 
-[FromDarkness]()
+[FromDarkness](https://youtu.be/bW5P9Tk-gSU)
 
-[RogueRobot]()
+[RogueRobot](https://youtu.be/houbkQ90moE)
 
 [Corporal Rot](https://youtu.be/xDn7iS0fLq4?si=yJmn0bl7NSy0z8VH)
 
