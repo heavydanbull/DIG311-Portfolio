@@ -12,8 +12,6 @@ This is where I will be putting my projects throughout Albright College
 
 [About Me](aboutme.md)
 
-
-
 Projects:
 
 [DogKnight]()

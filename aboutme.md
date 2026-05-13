@@ -14,6 +14,4 @@ I am Daniel Ramos-Medina, a student programmer/artist from Albright College!
 
 [Handshake](https://albright.joinhandshake.com/profiles/wyszct)
 
-
-
 [Return to Front Page](index.md)

@@ -1,4 +1,4 @@
-# Daniel Ramos-Medina
+Daniel Ramos-Medina
 
 718 North 13th Street, Reading, PA 19604
 
